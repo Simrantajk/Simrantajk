@@ -1,9 +1,20 @@
-- 👋 Hi, I’m @Simrantajk
-- 👀 I’m interested in coding.
-- 💞️ I’m looking to collaborate on any basic projects.
-- 📫 How to reach me email: ms.simrantaj@gmail.com
+# Hi, I'm Simran Taj K! 👋
 
-<!---
-Simrantajk/Simrantajk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate software developer interested in web development,and building efficient solutions to real-world problems. I have experience working with a variety of programming languages and frameworks, including:
+
+- **Languages**: Python, Java, C++, HTML, CSS, JavaScript, C
+- **Frameworks & Libraries**: Django, Flask
+- **Tools & Technologies**: AWS, Git, MySQL
+
+I thrive on learning new technologies and applying them to innovative projects. Some of my key projects include an e-commerce site, a CGPA calculator, and a personality test application. 
+
+## My Portfolio 🌐
+
+Check out my work and latest projects on my portfolio website: [simrantajk.github.io/Tech_Portfolio](https://simrantajk.github.io/Tech_Portfolio/)
+
+Feel free to browse through my repositories and get in touch if you'd like to collaborate on any projects!
+
+## Let's Connect
+
+- **LinkedIn**: [linkedin.com/in/simrantaj](https://www.linkedin.com/in/simrantaj/)
+- **GitHub**: [github.com/Simrantajk](https://github.com/Simrantajk)
