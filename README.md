@@ -3,7 +3,7 @@
 I'm a passionate software developer interested in web development,and building efficient solutions to real-world problems. I have experience working with a variety of programming languages and frameworks, including:
 
 - **Languages**: Python, Java, C++, HTML, CSS, JavaScript, C
-- **Frameworks & Libraries**: Django, Flask
+- **Frameworks & Libraries**: Django, Flask, React
 - **Tools & Technologies**: AWS, Git, MySQL
 
 I thrive on learning new technologies and applying them to innovative projects. Some of my key projects include an e-commerce site, a CGPA calculator, and a personality test application. 
